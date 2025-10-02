@@ -1,9 +1,11 @@
-## 🌱HEEJIN🌱 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HEEJIN%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=yang-hee's%20github%20&fontSize=40)
 
+## 🧱 Tech Stack
 <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  
+<!--React-->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+
 <!--
 **yang-hee/yang-hee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
