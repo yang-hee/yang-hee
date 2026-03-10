@@ -5,7 +5,6 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" />
 <br/>
 **<sub><sub>(2025/12/30 ~)</sub></sub>** <sub>타입스크립트 웹 풀스택 9기 교육중</sub><br>
-**<sub><sub>(2022/07 ~ 2023/06)</sub></sub>** <sub>Samsung Software Academy</sub> 
 
 ---
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> **skills**
